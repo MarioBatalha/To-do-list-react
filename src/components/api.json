@@ -1,0 +1,24 @@
+{
+   "tarefas": [
+    {
+      "text": "Estudar para a prova",
+      "key": 1
+    },
+    {
+        "text": "Aprender Ember JS",
+        "key": 2
+      },
+      {
+        "text": "Reconher documentos no MIREX",
+        "key": 3
+      },
+      {
+        "text": "Viajar para Polonia",
+        "key": 4
+      },
+      {
+        "text": "Visitar a avó",
+        "key": 5
+      }
+    ] 
+}
