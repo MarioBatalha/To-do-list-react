@@ -1,7 +1,7 @@
 <h1 align="center">To do List</h1>
 
-To do list é um app web desenvolvido com o [React](https://reactjs.org/), que vai lhe auxiliar listando os seus tarefas
-listando-as de maneira crescente.
+To do list é um app web desenvolvido com o [React](https://reactjs.org/), que vai lhe auxiliar listando os suas tarefas
+de maneira crescente.
 
 ## Instalação
 Faça o clone 
@@ -12,7 +12,7 @@ $ git clone ...
 
 Instalar o to-do-lis partir do [NPM](https://www.npmjs.com/) usando os comandos
 <li>Use o camando npm i para instalar todas as dependências.</li>
-<li>Use o camndo npm start para iniciar o servidor.</li>
+<li>Use o camando npm start para iniciar o servidor.</li>
 
 
 ``` bash
