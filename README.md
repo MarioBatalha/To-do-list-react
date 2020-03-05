@@ -11,10 +11,12 @@ $ git clone ...
 ```
 
 Instalar o to-do-lis partir do [NPM](https://www.npmjs.com/) usando os comandos
+<li>Use o camando npm i para instalar todas as dependências.</li>
+<li>Use o camndo npm start para iniciar o servidor.</li>
 
 
 ``` bash
-$ npm create-react-app ...
+$ npm i ...
 $npm start 
 ```
 
