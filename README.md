@@ -16,7 +16,7 @@ Instalar o to-do-lis partir do [NPM](https://www.npmjs.com/) usando os comandos
 
 
 ``` bash
-$ npm i ...
+$ npm init
 $npm start 
 ```
 
