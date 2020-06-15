@@ -5,7 +5,7 @@ import ListItem from './ListItem.js';
 import LimpaList from './components/LimpaList';
 import { library} from '@fortawesome/fontawesome-svg-core';
 import {faTrash} from '@fortawesome/free-solid-svg-icons';
-import firebase from './components/firebase';
+//import firebase from './components/firebase';
 import moment from 'moment';
 
 library.add(faTrash);
@@ -93,8 +93,8 @@ class App extends React.Component {
             <button type="submit">Adicionar</button>
           </form>
         </header>
-        <p className="tarefa">Tarefas</p>
-        <p className="data">{moment(Date()).calendar()}</p>
+        <p className="tarefa">Liste aqui as suas tarefas diárias</p>
+        <p className="data">{moment(Date()).calendar('dd/mm/yy')}</p>
         <ListItem items = {this.state.items} 
         deleteItem={this.deleteItem} 
         setUpdate={this.setUpdate}></ListItem>

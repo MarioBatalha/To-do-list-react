@@ -14,7 +14,7 @@ Instalar o to-do-lis partir do [NPM](https://www.npmjs.com/) usando os comandos
 
 
 ``` bash
-$ npm create-react-app ...
+$ npm install
 $npm start 
 ```
 
